@@ -7,8 +7,7 @@ Direct Download: Save your creations with a single click.
 Multi-Image Generation: Generate 1 to 4 images simultaneously, enhancing your creative process.
 
 🛠 Tech Stack:
- Frontend: HTML, CSS, JavaScript
-Backend: OpenAI DALL-E API
+ HTML, CSS, JavaScript, OpenAI DALL-E API
 
 
 📝 Usage:
