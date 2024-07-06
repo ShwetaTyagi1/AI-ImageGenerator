@@ -11,19 +11,6 @@ Frontend: HTML, CSS, JavaScript
 Backend: OpenAI DALL-E API
 📸 Screenshots
 
-
-📦 Installation
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/Dhruv102004/ai-image-generator.git
-
-Navigate to the project directory:
-sh
-Copy code
-cd ai-image-generator
-Open index.html in your preferred web browser.
-
 📝 Usage
 Enter a text prompt in the input field.
 Select the number of images you want to generate (1 to 4).
