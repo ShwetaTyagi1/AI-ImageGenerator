@@ -5,7 +5,7 @@ Welcome to the AI Image Generator, where your creativity meets cutting-edge tech
 Direct Download: Save your creations with a single click.
 Multi-Image Generation: Generate 1 to 4 images simultaneously, enhancing your creative process.
 
-![Screenshot (664)](https://github.com/ShwetaTyagi1/AI-ImageGenerator/assets/123883560/88283894-1c13-42f1-b4aa-1b7fef49d201)
+![Screenshot (664)](https://github.com/ShwetaTyagi1/AI-ImageGenerator/assets/123883560/29e4a48e-0c84-4684-8105-13f98f97b848)
 
 
 🛠 Tech Stack:
